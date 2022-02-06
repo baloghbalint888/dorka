@@ -1,0 +1,17 @@
+iframe{
+    height: 800px;
+    width: 80%;
+    padding-top: 5%;
+}
+
+body{
+    background-image: url("benus.jpg");
+    background-size: 10%;
+    
+}
+h1{
+    padding-top: 2%;
+    color: white;
+    font-size: 300%;
+    -webkit-text-stroke: 2px black; 
+}
